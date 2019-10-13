@@ -1,0 +1,59 @@
+.form{
+	padding: 30px;
+}
+.peoplePhoto div{
+	display: inline-block;
+	padding-right: 20px;
+	margin-top:10px ;
+}
+.people-photo button{
+	border-radius: 4px;
+}
+.name div{
+	display: inline-block;
+	padding-right: 20px;
+	margin-top:10px ;
+}
+.education div{
+	display: inline-block;
+	padding-right: 20px;
+	margin-top:10px ;
+}
+.education select{
+	height: 20px;
+	border-radius: 4px;
+}
+.sex div{
+	display: inline-block;
+	padding-right: 20px;
+	margin-top:10px ;
+}
+.sex input:after{
+	color: #F0B7C0;
+}
+.hobby div{
+	display: inline-block;
+	padding-right: 20px;
+	margin-top:10px ;
+}
+
+.sign div{
+	display: inline-block;
+	padding-right: 20px;
+	margin-top:10px ;
+}
+.sign input{
+	height: 40px;
+	width: 250px;
+	margin-top: 10px;
+	
+}
+.save input{
+	background-color: #F0B7C0;
+	color: white;
+	margin-left: 55px;
+	margin-top:10px ;
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+}
